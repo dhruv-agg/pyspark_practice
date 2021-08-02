@@ -54,6 +54,7 @@ Please open an issue or make a PR indicating the exercise and your problem/solut
 
 ### 📈 [Visualization](https://github.com/dhruv-agg/pyspark_practice/tree/main/07_Visualization)
 - Since Pyspark has no inbuilt methods for visualisations, matplotlib can be used like in Pandas
+
 [Chipotle](https://github.com/dhruv-agg/pyspark_practice/tree/main/07_Visualization/Chipotle)  
 [Titanic Disaster](https://github.com/dhruv-agg/pyspark_practice/tree/main/07_Visualization/Titanic_Desaster)  
 [Scores](https://github.com/dhruv-agg/pyspark_practice/tree/main/07_Visualization/Scores)  
